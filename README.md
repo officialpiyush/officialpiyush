@@ -5,7 +5,7 @@
 
 <table><tr>
 <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=officialpiyush&show_icons=true&hide=stars" alt="officialpiyush" /></td>
-<td align="center" style="padding=0;width=50%;"><img align="left" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialpiyush&layout=compact&hide=html" alt="officialpiyush" /></td>
+<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialpiyush&layout=compact&hide=html" alt="officialpiyush" /></td>
 </tr></table>
 
 <p align="center">
